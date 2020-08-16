@@ -1,4 +1,4 @@
-# Ontorjal
+# Ontorjal (Bengali অন্তর্জাল)
 
 Implementation of DNS client & Distance Vector Routing protocol
 
