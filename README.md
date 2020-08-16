@@ -24,5 +24,4 @@ network2.txt
 - in line number 332: change the filename (filenames are: network1.txt, network2.txt)
 
 ### How to generate output files:
-python3 my-dvr.py > output1.txt
-python3 my-dvr.py > output2.txt
+python dvr.py > output.txt
